@@ -1,3 +1,6 @@
+Student: Patrina
+Mentor: Dr.Puspita Chatterjee
+
 # Week 1
 
 **Dates:** MM-DD to MM-DD
