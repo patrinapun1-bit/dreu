@@ -4,7 +4,7 @@ Mentor: Dr. Puspita Chatterjee
 
 # Week 2
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 07-08 to 07-15
 
 ## Goals
 
