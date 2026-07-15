@@ -19,7 +19,7 @@ Mentor: Dr.Puspita Chatterjee
 
 
 ## Approach and Implementation
-I communicated with Jaclyn, who invited me to clone the GitHub repository. I explored the GitHub repository on my own, followed the posted instructions, and read more about what the research is about. I attended my first weekly meeting, where I met the entire team, learned what each graduate, undergraduate, and master's student is working on, and learned about the harmonization code for a dataset we will all work on.
+I communicated with Jaclyn, who invited me to clone the GitHub repository. I explored the GitHub repository on my own, followed the posted instructions, and read more about what the research is about. I attended my first weekly meeting, where I met the entire team, learned what each graduate, undergraduate, and master's student is working on, and learned about the harmonization for a dataset we will all work on.
 
 I also connected with another student, Khadijah, who is an undergraduate and part of the DREU program under Dr. Chatterjee. She walked me through GitHub and explained what is expected from the research internship. She briefly caught me up on the material and where to begin to get caught up. I then read a chapter from Introduction to Quantum Computing and Essential Mathematics for Quantum Computing, where I connected the concepts to the weekly notebook assignments that had been posted by Jaclyn. I completed Weeks 1–5 of the notebooks, where I learned the basics of qubits and superposition, linear algebra, quantum circuits, the Bloch sphere, noise, and the NISQ era. To learn the very basics of these concepts, I primarily read my textbook and watched various YouTube videos explaining them. I learned the concepts and also learned how to code in Qiskit.
 
