@@ -7,6 +7,7 @@ Mentor: Dr.Puspita Chatterjee
 **Dates:** 07/01/2026 to 07/08/2026
 
 ## Goals
+
 - Set up my GitHub Repository and familiarize myself with the structure.
 
 -Attend the first weekly meeting to introduce myself to the team and understand what I need to catch up on.
