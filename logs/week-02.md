@@ -19,18 +19,18 @@ Mentor: Dr. Puspita Chatterjee
 ## Approach and Implementation
 I continued reading various chapters of my textbook on basic quantum computing concepts. I read through the two papers that Jaclyn provided and typed keywords such as "LSTM" and "Encoding" into the papers to narrow my reading. I then answered the questions she provided us and critically analyzed the papers. 
 
-I worked on Assignment 7, which built upon the concepts from Assignment 6. I created diagrams on Google Slides about quantum encoding. I then used Qiskit to implement qubit rotations on the Bloch sphere based on two different TNBC features. I assembled a short slideshow to present during our Thursday meeting. I then referenced my Week 6 slideshow about A-QLSTM-A and a previous paper provided by Jaclyn and discussed how encoding relates to A-QLSTM.
+I am working on Assignment 7, which builds upon the concepts from Assignment 6. I will create diagrams on Google Slides about quantum encoding. I will then use Qiskit to implement qubit rotations on the Bloch sphere based on two different TNBC features. I then reference my Week 6 slideshow on A-QLSTM-A and a previous paper provided by Jaclyn, and discuss how encoding relates to A-QLSTM.
 
-I then began thinking about my research poster and drafting a few ideas.
+I then will begin thinking about my research poster and drafting a few ideas.
 
 
 
 
 ## Results
 
-- I answered the literature questions on a seperate google doc.
+- I answered the literature questions on a separate Google Doc.
 
-- I created a google slideshow to present for week 7.
+- I am working on creating a Google Slides presentation for week 7.
 
 
 
