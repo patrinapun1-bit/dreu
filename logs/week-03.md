@@ -4,23 +4,20 @@
 
 ## Goals
 
-- Begin drafting a research poster for Undergraduate
--  Draft Poster Section connecting SHAP analysis, quantum encoding to TNBC datasets, connecting encoding to A-QLSTM-A model. 
-
+- Begin drafting a research poster.
+-  Developed initial poster sections connecting SHAP analysis, quantum encoding of TNBC datasets, and their relationship to the A-QLSTM-A model.
 
 ## Approach and Implementation
 
-I created a very rough draft of my research poster by gathering information/data from my previous slideshows, merged dataset, and previous work. I pulled my tables and coded Bloch sphere diagrams from my slideshows. I referenced academic research posters from a link Jaclyn provided and read the research literatures she provided regarding SHAP analysis. 
+I created a rough draft of my research poster by compiling information and data from my previous slideshows, merged dataset, and prior work. I incorporated tables and coded Bloch sphere diagrams from earlier presentations and referenced academic research poster examples provided by Jaclyn to guide the poster's structure and design. I also reviewed the research literature she shared on SHAP analysis to strengthen the conceptual connections between SHAP analysis, quantum encoding, the TNBC dataset, and the A-QLSTM-A model.
 
-I then also attended our weekly meeting where I was able to make notes to revising my research poster in the future and I created a new template for my academic poster that was more appropriate. 
-
+During our weekly meeting, I took notes on feedback and future revisions, then redesigned the poster using a new template that was more appropriate for an academic research presentation.
 
 ## Results
 
-- I was able to create a rough draft of the research poster and revise it based on our weekly meeting. 
-
+- Developed a rough draft of the research poster and made initial revisions based on feedback from the weekly meeting.
 
 ## Notes
 
-- I only created a rough draft of my research poster as I am only a little under halfway into the program. 
+- The poster remains in an early draft stage, as I am currently a little under halfway through the program.
 
