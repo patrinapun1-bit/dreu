@@ -4,7 +4,7 @@
 
 ## Goals
 
-
+- I dived further into NISQ and injecting noise into a quantum model and vibe coding. 
 
 ## Approach and Implementation
 
