@@ -1,6 +1,6 @@
 # Week 5
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 07-29 to 08-D5
 
 ## Goals
 
