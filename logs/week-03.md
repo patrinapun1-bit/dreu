@@ -1,6 +1,6 @@
 # Week 3
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 07-15 to 07-22
 
 ## Goals
 
