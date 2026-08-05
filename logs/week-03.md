@@ -1,3 +1,8 @@
+Student: Patrina Pun
+
+Mentor: Dr. Puspita Chatterjee
+
+
 # Week 3
 
 **Dates:** 07-15 to 07-22
