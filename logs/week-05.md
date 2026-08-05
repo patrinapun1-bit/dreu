@@ -1,3 +1,8 @@
+Student: Patrina Pun
+
+Mentor: Dr. Puspita Chatterjee
+
+
 # Week 5
 
 **Dates:** 07-29 to 08-05
