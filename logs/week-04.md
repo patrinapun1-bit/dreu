@@ -19,4 +19,4 @@
 
 ## Notes
 
-
+- This week, the other two undergraduates were a part of a different program under Professor Chatterjee and had a collaborative poster to complete and present, so deliverables for this week were different. 
