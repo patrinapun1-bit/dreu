@@ -1,6 +1,6 @@
 # Week 9
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 08-26 to 09-02
 
 ## Goals
 
